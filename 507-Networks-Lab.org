@@ -4,7 +4,6 @@
 :end:
 
 #+startup: showall
-#Edited by SVJ
 
 {{{credits}}}
 |L|T|P|C|
