@@ -7,7 +7,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 0 | 0 | 3 | 1.5 |
+| 0 | 0 | 4 | 2 |
 
 ** Course Objectives
 - To have a basic knowledge of the concepts and techniques of machine
